@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+.custom-form{
+background: transparent;    
+backdrop-filter: blur(8px);
+}
+.custom-inputs{
+    background-color: transparent;
+    color: white;
+}
